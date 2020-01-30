@@ -5,6 +5,6 @@
 
 int main(){
 
-	printf("bonjour");
+	printf("ceci est un inventaire");
 	return 0;
 }
